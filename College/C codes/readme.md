@@ -1,1 +1,1 @@
-My 3rd semester college codes in c.
+My college practice codes in c.
